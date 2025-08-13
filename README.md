@@ -188,12 +188,6 @@ Then follow the interactive prompts listed above.
 
 ---
 
-## 📄 License
-
-Choose a license that fits your needs (MIT recommended for internal tooling).
-
----
-
 ## 🙋 FAQ
 
 **Q: Can I run this daily?**  
